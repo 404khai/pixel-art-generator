@@ -1,3 +1,5 @@
+pub mod renderer;
+
 use rand::{Rng, SeedableRng};
 use rand_chacha::ChaCha8Rng;
 
